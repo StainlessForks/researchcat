@@ -27,3 +27,7 @@ p.hanging_indent {
     padding-left: 50px;
     text-indent: -50px;
 }
+
+p.line_height {
+    line-height: 1.2;
+}
